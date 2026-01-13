@@ -12,7 +12,7 @@ const doc = {
       description: "Local Server",
     },
     {
-      url: "https://raso-mako-2.vercel.app",
+      url: "https://raso-mako-2.vercel.app/api",
       description: "Deploy Server",
     },
   ],
